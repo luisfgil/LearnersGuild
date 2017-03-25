@@ -1,0 +1,45 @@
+button {
+  min-width: 2em;
+  min-height: 1em;
+  border-radius: .5em;
+}
+
+.purple1 {
+  background-color: #6622CC;
+}
+
+.purple2 {
+  background-color: #1B1F3B;
+}
+
+.purple3 {
+  background-color: #B14AED;
+}
+
+.purple4 {
+  background-color: #C874D9;
+}
+
+.purple5 {
+  background-color: #E1BBC9;
+}
+
+.purple1text {
+  color: #6622CC
+}
+
+.purple2text {
+  color: #1B1F3B
+}
+
+.purple3text {
+  color: #B14AED
+}
+
+.purple4text {
+  color: #C874D9
+}
+
+.purple5text {
+  color: #E1BBC9
+}
